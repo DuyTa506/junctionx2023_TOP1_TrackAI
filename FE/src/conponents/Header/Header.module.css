@@ -1,0 +1,9 @@
+.content {
+    height: 60px;
+    padding: 0 8px;
+    background-color: blue;
+    color: #fff;
+}
+.logoText {
+    font-size: 28px;
+}

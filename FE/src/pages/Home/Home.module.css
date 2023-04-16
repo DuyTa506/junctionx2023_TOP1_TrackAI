@@ -1,0 +1,25 @@
+.container {
+  /* margin-top: 20px; */
+  height: 100%;
+}
+
+.detailContent {
+  background-color: #ccc;
+}
+
+.content {
+  height: calc(100% - 60px);
+}
+
+.estimationVideo {
+  width: 100%;
+}
+
+
+.barContent {
+  background-color: #d8d0d0;
+  border-right: #fff solid 4px;
+  height: 100%;
+}
+
+
