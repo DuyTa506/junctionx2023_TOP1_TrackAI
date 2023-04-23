@@ -386,3 +386,5 @@ If you use any ideas from the paper or code from this repo, please consider citi
 Magic Leap is proud to provide its latest samples, toolkits, and research projects on Github to foster development and gather feedback from the spatial computing community. Use of the resources within this repo is subject to (a) the license(s) included herein, or (b) if no license is included, Magic Leap's [Developer Agreement](https://id.magicleap.com/terms/developer), which is available on our [Developer Portal](https://developer.magicleap.com/).
 If you need more, just ask on the [forums](https://forum.magicleap.com/hc/en-us/community/topics)!
 We're thrilled to be part of a well-meaning, friendly and welcoming community of millions.
+
+# The data preparation and training progress will be available soon !!
