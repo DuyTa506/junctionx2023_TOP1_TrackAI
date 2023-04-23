@@ -214,4 +214,6 @@ Magic Leap is proud to provide its latest samples, toolkits, and research projec
 If you need more, just ask on the [forums](https://forum.magicleap.com/hc/en-us/community/topics)!
 We're thrilled to be part of a well-meaning, friendly and welcoming community of millions.
 
-# The data preparation and training progress will be available soon !!
+
+
+# All the pipeline and full readme for AI track will available soon !! Please wait ! Many thanks
